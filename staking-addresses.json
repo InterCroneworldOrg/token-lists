@@ -1,3 +1,8 @@
 {
-  "addresses": ["0xc4ce1822db86e3848ca0fab0de72818f97883c4a"]
+  "addresses": [
+        "0xc4ce1822db86e3848ca0fab0de72818f97883c4a",
+        "0xbe3f0022fa68a5eaaf3189825b19d652377420f5",
+        "0x2edb6be332d850e1d0a1abd933f456b3d48a8950",
+        "0xfed67d9da22551895af2bb0d5e8010b28b016917"
+      ]
 }
