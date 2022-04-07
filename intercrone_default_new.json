@@ -5,11 +5,11 @@
 			"symbol": "ICR",
 			"name": "InterCrone",
 			"addresses": [
-                            "11111": "0x6C50DDDAECA053249582D7F823BCC8299B3FB293",
-                            "56": "BSC address"
+                            "11111": "56",
+                            "56": "0x4f60Ad2c684296458b12053c0EF402e162971e00"
 			],
 			"decimals": 8,
-			"logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png"
+			"logoURI": ""
 		},
 		{
 			"symbol": "MEOX",
