@@ -1,36 +1,32 @@
 {
-  "addresses": {
-    "tron": {
-      "11111": {
-        "v0": {
-          "ICR-TRX": "0xbe3f0022fa68a5eaaf3189825b19d652377420f5",
-          "ICR-BTT": "0x2edb6be332d850e1d0a1abd933f456b3d48a8950",
-          "ICR-USDT": "0xfed67d9da22551895af2bb0d5e8010b28b016917"
-        },
-        "v1": {
-          "TRX-ICR": "0x87f1dc0f6674b492da825717199339af85cb908c",
-          "TRX-WIN": "0x12cb5eb7a7213e25f55b9d77014fda0194cbfb49",
-          "TRX-BTT": "0x92332b13e61258ab510df04e9b08d26ab9e90f75",
-          "TRX-SUN": "0x3bb0a0dcd7142bb0759638c02ba9bcf60331662f",
-          "TRX-NFT": "0x30c5652e6947297fb1731f4ff2d42d9123468ef5",
-          "TRX-JST": "0xa89dd2c58c3f73afd82c62513fd732e1e6e0d287",
-          "TRX-turu": "0xb83f2c827ae3eb7a238817aa9c44f2115890a1ef",
-          "ICR-BTC": "0x81309be70c496ff827415e9bff1c01c8f5dacdcb",
-          "ICR-ETH": "0x3d0d8c992c88f1bd593e7928dc55028e128d81d0",
-          "ICR-WIN": "0x9955882f3fe4b0d11c5b2107318ba9a9bb1b34c7",
-          "ICR-BTT": "0x435de0d5e8507ef3a8603e38220009b25de9c506",
-          "ICR-SUN": "0x2111cd147c637767582d6ff12954e5c836cedcf3",
-          "ICR-JST": "0x3d98319955b0596b76516ad6245431d31d0c02b6",
-          "ICR-TUSD": "0xed61d734d33f59862f479acee6ec89039d9d737c",
-          "USDT-TRX": "0x556f24878553a243577d692ac2885d3b463c11c4",
-          "USDT-ICR": "0xd44338b6240dec896c58bd08d2275097ebae6b6e",
-          "USDT-WIN": "0xb7e96989e70f1b05066f4d3884fe17d62962f981",
-          "USDT-BTT": "0xdd1a089f523456fddc11c1a886ec3813b5e27c6d",
-          "USDT-SUN": "0xfa3ca0b491edf83a0a8f1a67d3a6c2ea9d004192",
-          "USDT-NFT": "0xb255cf09f5f7b4461f0dce1cbf4ce9cf41ec32b0",
-          "USDT-JST": "0x5eaa762c0a1281af03e6390a9c5b5b8f54a05f8a"
-        }
-      }
+  "11111": {
+    "v0": {
+      "ICR-TRX": "0xbe3f0022fa68a5eaaf3189825b19d652377420f5",
+      "ICR-BTT": "0x2edb6be332d850e1d0a1abd933f456b3d48a8950",
+      "ICR-USDT": "0xfed67d9da22551895af2bb0d5e8010b28b016917"
+    },
+    "v1": {
+      "TRX-ICR": "0x87f1dc0f6674b492da825717199339af85cb908c",
+      "TRX-WIN": "0x12cb5eb7a7213e25f55b9d77014fda0194cbfb49",
+      "TRX-BTT": "0x92332b13e61258ab510df04e9b08d26ab9e90f75",
+      "TRX-SUN": "0x3bb0a0dcd7142bb0759638c02ba9bcf60331662f",
+      "TRX-NFT": "0x30c5652e6947297fb1731f4ff2d42d9123468ef5",
+      "TRX-JST": "0xa89dd2c58c3f73afd82c62513fd732e1e6e0d287",
+      "TRX-turu": "0xb83f2c827ae3eb7a238817aa9c44f2115890a1ef",
+      "ICR-BTC": "0x81309be70c496ff827415e9bff1c01c8f5dacdcb",
+      "ICR-ETH": "0x3d0d8c992c88f1bd593e7928dc55028e128d81d0",
+      "ICR-WIN": "0x9955882f3fe4b0d11c5b2107318ba9a9bb1b34c7",
+      "ICR-BTT": "0x435de0d5e8507ef3a8603e38220009b25de9c506",
+      "ICR-SUN": "0x2111cd147c637767582d6ff12954e5c836cedcf3",
+      "ICR-JST": "0x3d98319955b0596b76516ad6245431d31d0c02b6",
+      "ICR-TUSD": "0xed61d734d33f59862f479acee6ec89039d9d737c",
+      "USDT-TRX": "0x556f24878553a243577d692ac2885d3b463c11c4",
+      "USDT-ICR": "0xd44338b6240dec896c58bd08d2275097ebae6b6e",
+      "USDT-WIN": "0xb7e96989e70f1b05066f4d3884fe17d62962f981",
+      "USDT-BTT": "0xdd1a089f523456fddc11c1a886ec3813b5e27c6d",
+      "USDT-SUN": "0xfa3ca0b491edf83a0a8f1a67d3a6c2ea9d004192",
+      "USDT-NFT": "0xb255cf09f5f7b4461f0dce1cbf4ce9cf41ec32b0",
+      "USDT-JST": "0x5eaa762c0a1281af03e6390a9c5b5b8f54a05f8a"
     }
   }
 }
