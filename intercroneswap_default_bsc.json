@@ -25,7 +25,7 @@
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/busd_32.png"
     },
-        {
+    {
       "name": "Tether",
       "symbol": "USDT",
       "address": "0x55d398326f99059fF775485246999027B3197955",
@@ -41,7 +41,7 @@
       "decimals": 18,
       "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
     },
-        {
+    {
       "name": "PancakeSwap",
       "symbol": "CAKE",
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
@@ -49,7 +49,7 @@
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/pancake_32.png?=v1"
     },
-        {
+    {
       "name": "Polkadot",
       "symbol": "DOT",
       "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
@@ -57,7 +57,7 @@
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
     },
-         {
+    {
       "name": "Biswap",
       "symbol": "BSW",
       "address": "0x965F527D9159dCe6288a2219DB51fc6Eef120dD1",
@@ -65,7 +65,7 @@
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/biswap_32.png"
     },
-         {
+    {
       "name": "Tron",
       "symbol": "TRX",
       "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
@@ -73,7 +73,7 @@
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/tron_32.png"
     },
-         {
+    {
       "name": "Fantom",
       "symbol": "FTM",
       "address": "0xAD29AbB318791D579433D831ed122aFeAf29dcfe",
@@ -81,14 +81,14 @@
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/ftm_32.png?=v2"
     },
-         {
+    {
       "name": "Avalance",
       "symbol": "AVAX",
       "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/avax_32.png"
-    },
+    }
   ],
   "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png",
   "version": {
