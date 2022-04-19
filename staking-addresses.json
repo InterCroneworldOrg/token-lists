@@ -28,5 +28,13 @@
       "USDT-NFT": "0xb255cf09f5f7b4461f0dce1cbf4ce9cf41ec32b0",
       "USDT-JST": "0x5eaa762c0a1281af03e6390a9c5b5b8f54a05f8a"
     }
+  },
+  "56": {
+    "v0": {}
+  },
+  "97": {
+    "v0": {
+      "BNB-ICR": "0x4BF2513E3C0917C88b1aC2F6dAB53736C6626039"
+    }
   }
 }
