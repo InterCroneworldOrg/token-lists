@@ -31,10 +31,10 @@
   },
   "56": {
     "v0": {
-      "BUSD-ICR": "",
-      "BNB-ICR": "",
-      "CAKE-ICR": "",
-      "DOT-ICR": ""
+      "BUSD-ICR": "0x2dc1a19bd778bcfe5769aca5b126c961ae11965c",
+      "BNB-ICR": "0x252cd063341a1a47933086b93f85417c09c54aec",
+      "CAKE-ICR": "0xdd4da8c3ddc8fcd9250cd3574bbf813ce62d64cf",
+      "DOT-ICR": "0x08cfb6822e220638664324215537b332e0d92627"
     }
   },
   "97": {
