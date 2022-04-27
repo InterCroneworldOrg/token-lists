@@ -27,6 +27,12 @@
       "USDT-SUN": "0xfa3ca0b491edf83a0a8f1a67d3a6c2ea9d004192",
       "USDT-NFT": "0xb255cf09f5f7b4461f0dce1cbf4ce9cf41ec32b0",
       "USDT-JST": "0x5eaa762c0a1281af03e6390a9c5b5b8f54a05f8a"
+    },
+    "v2": {
+      "TRX-MEOX": "0xbcfc5cc789d8e2c94404bc92f6acac44103b36f9",
+      "ICR-MEOX": "0x6a463cd0b42f3ce634154a06bc193f27ac414364",
+      "USDT-MEOX": "0x59f2be4ae09a68c8bfdef5898fcc0b5c9f0ea56e",
+      "BTC-MEOX": "0xbc3e31c058d3f94ef00a077e51774e6d48566ba1"
     }
   },
   "56": {
