@@ -66,6 +66,14 @@
 			"logoURI": "https://coin.top/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
 		},
 		{
+			"symbol": "USDD",
+			"name": "USD Coin",
+			"address": "0X94F24E992CA04B49C6F2A2753076EF8938ED4DAA",
+			"chainId": 11111,
+			"decimals": 18,
+			"logoURI": "https://coin.top/production/upload/logo/TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn.png"
+		},
+		{
 			"symbol": "WIN",
 			"name": "WINK",
 			"address": "0x74472E7D35395A6B5ADD427EECB7F4B62AD2B071",
