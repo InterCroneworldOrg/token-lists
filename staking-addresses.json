@@ -37,7 +37,9 @@
       "TRX-COME": "0x83c61c4b829364db9980c5a3b9501087d212dee6",
       "ICR-COME": "0x43cf023b15fdaf09cff61fee9015e08274020f7f",
       "USDC-COME": "0x29732793fb42a01cdb5a004373cc23f7f2f82fdd",
-      "BTC-COME": "0xab436ee2b53dabdccb13c1dec6213e60ad203fb5"
+      "BTC-COME": "0xab436ee2b53dabdccb13c1dec6213e60ad203fb5",
+      "TRX-USDD": "0x87610a5eb6ecd529ef25885069f6d3587834ac60",
+      "ICR-USDD": "0xf945051288ce0954f9f023ed3595610e39a679aa"
     }
   },
   "56": {
