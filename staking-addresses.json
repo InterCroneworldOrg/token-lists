@@ -49,8 +49,8 @@
       "BNB-ICR": "0x252cd063341a1a47933086b93f85417c09c54aec",
       "CAKE-ICR": "0xdd4da8c3ddc8fcd9250cd3574bbf813ce62d64cf",
       "DOT-ICR": "0x08cfb6822e220638664324215537b332e0d92627"
-      },
-      "v1": {
+    },
+    "v1": {
       "BNB-CAKE": "0xB18e2bd11c727cFd3B9c5E05b0711fD62d87050d",
       "BNB-USDT": "0x689Bdcf79b07670D7ab628F5cD04c70444d686a7",
       "BNB-DOT": "0xBd5FECF482eED300a2821519ca153470a725c834",
@@ -60,11 +60,26 @@
       "ICR-BTT": "0x9b1bf63c86bca2f3abdb1c3178666f1f7563cac6",
       "ICR-DOT": "0x1893c45be9134289304a2d3c49152f2d3076b888",
       "ICR-BUSD": "0xc39ae6a0db105c5af39d479bfe442d77ce4aee82"
-      }
     },
+    "v2": {
+      "ICR-BNB": "0x9c1f12eceD717798395736b607AC959778276Ec4",
+      "ICR-CAKE": "0x21Da4984d44F72eB0672B7244538baF164342db0",
+      "ICR-DOT": "0x628e48f95a3230d9ab0d501178f765949cad2caa",
+      "ICR-BUSD": "0xF4088F65B327644875e11c741ce65814db5922CD"
+    }
+  },
   "97": {
     "v0": {
       "BNB-ICR": "0x4BF2513E3C0917C88b1aC2F6dAB53736C6626039"
+    }
+  },
+  "199": {
+    "v1": {
+      "ICRB-ICRT": "0x6b3da2a5a5ce3857e6136d5044f87a57a6f39db7",
+      "ICRB-BTT": "0x994f5aeb3c76b120ab581cd9daaef31a92c2ba47",
+      "ICRB-BNB": "0x0385026a5a017ca3d2aa9e8dd1eb3a97a08998fd",
+      "ICRT-TRX": "0xA4d920FB1E334afc3Ad252E564385ff26C5132b7",
+      "ICRT-BTT": "0xd929057bc905208e9a015fc1f2c7fcf8ba2496f8"
     }
   }
 }
