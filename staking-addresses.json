@@ -40,7 +40,10 @@
       "BTC-COME": "0xab436ee2b53dabdccb13c1dec6213e60ad203fb5",
       "TRX-USDD": "0x87610a5eb6ecd529ef25885069f6d3587834ac60",
       "ICR-USDD": "0xf945051288ce0954f9f023ed3595610e39a679aa",
-      "ICR-DOGE": "0x80624e40c9f48ceb4bf097216cab898c032b76db"
+      "ICR-DOGE": "0x80624e40c9f48ceb4bf097216cab898c032b76db",
+      "WIN-LIVE": "0x117fd75cf5885890bcb382e8040fdc7b62caba73",
+      "WIN-DICE": "0x5910f122263d2f2fac6171c0bc35fdbbd3e8597b",
+      "DICE-LIVE": "0xe9d670006e9db6bfde810be1ab12dd3752354fa5"
     }
   },
   "56": {
