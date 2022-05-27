@@ -34,6 +34,14 @@
       "logoURI": "https://coin.top/production/logo/usdtlogo.png"
     },
     {
+      "name": "USD",
+      "symbol": "USDD",
+      "address": "0xd17479997F34dd9156Deef8F95A52D81D265be9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/usdd-tron_32.png"
+    },
+    {
       "name": "Ethereum",
       "symbol": "ETH",
       "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
