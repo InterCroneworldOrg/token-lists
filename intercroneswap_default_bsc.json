@@ -105,6 +105,14 @@
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/avax_32.png"
     },
+     {
+      "name": "Cardano",
+      "symbol": "ADA",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/cardano_32.png"
+    },
     {
       "name": "MX Token",
       "symbol": "MX",
