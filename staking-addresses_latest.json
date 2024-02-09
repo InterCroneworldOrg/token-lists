@@ -1,0 +1,277 @@
+{
+	"11111": {
+		"v1": {
+			"0x14D70BFE034428D58DD3490A12B4DA88CD9CAA23": "PLZ-ETHOLD",
+			"0xBADD0C7CB82FB8D283CFE5316D2685D01B006CE4": "USDT-COME",
+			"0xC0D93812F10C63B4C7FC5DC11DF4E1CB65504B4C": "COME-MEOX",
+			"0xAE99F7071BC2C71D6ACBF0EFE4CC3C7B6F768CD7": "COME-ETH",
+			"0xEED23AB4E2B6B0E41B98D333CD7A7199EA23B511": "COME-BTC",
+			"0x281F119232E9EB6521944F31CD21657FD5EF5128": "TRX-COME",
+			"0x654F6E09A296FCB622C6B559F7E8111B1C94A9AA": "ICR-COME"
+		},
+		"v2": {}
+	},
+	"56": {
+		"v0": {},
+		"v1": {
+			"0xB18e2bd11c727cFd3B9c5E05b0711fD62d87050d": "BNB-CAKE",
+			"0x689Bdcf79b07670D7ab628F5cD04c70444d686a7": "BNB-USDT",
+			"0xBd5FECF482eED300a2821519ca153470a725c834": "BNB-DOT",
+			"0x971930763FA9a22827f4a826b50fA52CbcF00376": "BNB-ICR",
+			"0xAEe9b66DBD06b708d2Ad14AA9D353500fe696a25": "ICR-CAKE",
+			"0x45f1061559556Fc439Afde8d940A59827058bBea": "ICR-ETH",
+			"0x9b1bf63c86bca2f3abdb1c3178666f1f7563cac6": "ICR-BTT",
+			"0x1893c45be9134289304a2d3c49152f2d3076b888": "ICR-DOT",
+			"0xc39ae6a0db105c5af39d479bfe442d77ce4aee82": "ICR-BUSD"
+		},
+		"v2": {
+			"0x9c1f12eceD717798395736b607AC959778276Ec4": "ICR-BNB",
+			"0x21Da4984d44F72eB0672B7244538baF164342db0": "ICR-CAKE",
+			"0x628e48f95a3230d9ab0d501178f765949cad2caa": "ICR-DOT",
+			"0xF4088F65B327644875e11c741ce65814db5922CD": "ICR-BUSD",
+			"0x2Cca36fF5d3F9A1290901b7e8E6c255671EF9Fbf": "ICR-USDD",
+			"0xe3b9c300E9ef0BcA9b62082A9C2E44CEB4B5DAb4": "ICR-ETH",
+			"0x9e3faa5cc98bcfb55892781918fea2c502205b24": "ICR-ADA",
+			"0x590052A2581b38Cda9A0f2Cba1ea358BC45D2de3": "BNB-ADA",
+			"0xE68C661C931d96718F92A031104f89813353eDF2": "ICR-MX",
+			"0x63e5578d62f41a682034b17530780F246657D0F7": "ICR-BNB",
+			"0x5D62637B30b5cfF82e3A2aE5805686F159e34980": "ICR-JM",
+			"0x3734E898E9fcdBE8e481Fad1d975093c58c7C78a": "ICR-ETH",
+			"0xd307B21C59D8Eb3b1a98b51F2237cDfc9Db7A2F5": "ICR-BFG",
+			"0x739C415a69bC229320D4b2f97Ea40b371c3ECf2D": "ICR-CAKE",
+			"0x5e01e48a103390B0f99a7baACa0Ab120F0a98cE8": "ICR-DOT",
+			"0xf62f29ccC1972F78313e72b1C72EE5f87E8bEc42": "ICR-BUSD",
+			"0x0484b79f91f88234e01CD7FD6cEeEb9D5835B38D": "ICR-USDD",
+			"0x55966B39CB04B42cB0e49386B9E78bB2288b2ae3": "ICR-BABYDOGE",
+			"0xBd0a94947DCd6Cbe98a055C5298e05047784fe55": "ICR-BSW",
+			"0x78580F85F61E7dC1B25DD64F04DC2d208D2a7817": "ICR-TONCOIN",
+			"0x307dfC6C01f8f9d515A3E41fE77E78def0eF656b": "ICR-USDT",
+			"0x0D6c6A952FA452D98cB57B232797C9404dF5eA52": "ICR-AVAX",
+			"0xeC8e4798C305e3e6834797B4D507ab5344554C01": "ICR-ADA",
+			"0x44C3D95B2B7E09DB9e6287C043EA9cb3EB73b8B1": "PLZ-ICR",
+			"0x66cBD687402588D45a4338B3e40677bba8407dB6": "PLZ-BUSD",
+			"0x38692505d759f645d32b0F07A57B0117Df22Ef17": "PLZ-BNB",
+			"0x607f20CB5225E34e869a2E08cfC947CaFb707fFF": "PLZ-BTCB",
+			"0xDE577f2297b03b0b41802AD9341d1243e2580b6A": "PLZ-ETH",
+			"0xDf22eaf69a3bcBbe989a666e098e616BF1C57709": "PLZ-USDT",
+			"0x234D38A157f6180FbAC5a6a9d1B1f4D1bdAfc0E4": "CHT-ICR",
+			"0x06d6E83C47c52042A22dcb63782aA580657eC5D0": "CHT-ETH",
+			"0xc4c151F2E137c2B846239A43Eddf177fCab11FB6": "CHT-USDT",
+			"0x4378625661C6E28e4e4e0786FcD4Ea70b5Eac026": "CHT-BNB",
+			"0xb556D49e8E683Ae30AB6A9BF54e6D7bAAf1e62f5": "CHT-BTCB"
+		}
+	},
+	"97": {
+		"v0": {}
+	},
+	"199": {
+		"v1": {
+			"0x6b3da2a5a5ce3857e6136d5044f87a57a6f39db7": {
+				"pair": "ICRB-ICRT",
+				"days": 180
+			}
+		},
+		"v2": {
+			"0x7da2378cd3638cf5b18e07ad6d9134e8af4ba009": {
+				"pair": "BTT-ICRT",
+				"days": 180
+			},
+			"0x8ba65338e2c7d42cf15eab3837381adfbfe79592": {
+				"pair": "BTT-ICRB",
+				"days": 180
+			},
+			"0x929c1e1a3ef2ce5698a7475c8526e28ba670d583": {
+				"pair": "ICRB-ICRT",
+				"days": 180
+			},
+			"0xcf0bfc5dd1e7998c59078d4ef7fc132dc29a35dc": {
+				"pair": "PMAN-ICRT",
+				"days": 180
+			},
+			"0x66813e3109e7d659998775572b89e3632399cca5": {
+				"pair": "PMAN-JM",
+				"days": 180
+			},
+			"0x18dab6e7ae225008151501e1e09181f1c7884c32": {
+				"pair": "PMAN-BTT",
+				"days": 180
+			},
+			"0xca06352ee37eeaa2742bc48cec90ed7793439e2f": {
+				"pair": "PMAN-TRX",
+				"days": 180
+			},
+			"0x4ff1082ecd7bb5e8a23c3df81d4461b3d539b689": {
+				"pair": "PMAN-ETH",
+				"days": 180
+			},
+			"0x232ed668985cffc340b0e7225f176d561932f5f1": {
+				"pair": "PMAN-BNB",
+				"days": 180
+			},
+			"0x9ee45c4ee43dcfbe6ad0abebe5681b2b35383574": {
+				"pair": "PMAN-WBTCE",
+				"days": 180
+			},
+			"0x627a84554a6d0d305bcb3361b01979ddf654343d": {
+				"pair": "PMAN-USDTB",
+				"days": 180
+			}
+		},
+		"v3": {
+			"0x4319A5B6Baa07B55077B3B853A4A2f41dAa43931": {
+				"pair": "PRUN-BTT",
+				"days": 45
+			},
+			"0x4f984B1A3ddca3BCb2B8AE13D19feBa570Fe65a4": {
+				"pair": "PRUN-TRX",
+				"days": 45
+			},
+			"0xC5421455e4BB4cbC2B560bEAd8Dd3E4E1E8741E2": {
+				"pair": "PRUN-BNB",
+				"days": 45
+			},
+			"0x959Fe52E5Cf51E86B3C7A8666adbdDDeF2876f9F": {
+				"pair": "PRUN-WBTCE",
+				"days": 45
+			},
+			"0x02A379cE5eC27Ef85F305EB4E0207f1FD8b4379B": {
+				"pair": "PRUN-PMAN",
+				"days": 45
+			},
+			"0x75C6D70Dd6aa973b0Aaa3026F901E82c44DEcCe4": {
+				"pair": "PRUN-OIL",
+				"days": 45
+			},
+			"0x5408EFE39af0e899527D3F74B0dB4199d8152C48": {
+				"pair": "PRUN-SHIT",
+				"days": 45
+			},
+			"0xB7ec7Ff62aa3ddD1c8D9D03C0434174095d273F7": {
+				"pair": "PRUN-USDTB",
+				"days": 45
+			},
+			"0x6a6Ce14261371D4F3b32c9aC9d497Df6d4Ed7511": {
+				"pair": "PRUN-USDTT",
+				"days": 45
+			},
+			"0xC7992E54d290D5363b1E9204dd57f708F149AE10": {
+				"pair": "PY-ICRT",
+				"days": 180
+			},
+			"0x41DafAa9D4D10199ED119B88Eb32d621c23Cdf46": {
+				"pair": "PY-WBTCE",
+				"days": 180
+			},
+			"0xDe3e6929a7D3c97EA14464d2484C3cE4BE8Bd0E4": {
+				"pair": "PY-ETH",
+				"days": 180
+			},
+			"0x917ccD55c5Bd21fe3BfD2990E08db85abbfAb3EC": {
+				"pair": "PY-USDTT",
+				"days": 180
+			}
+		},
+		"v5": {
+			"0x8129fb219b3f411e99f7fb9cC2CEDffAA11a5D7B": {
+				"pair": "PRUN-BTT",
+				"days": 68
+			},
+			"0x372a56fDdEBFdc9470406bcF2eCb7FC71Eca24f1": {
+				"pair": "PRUN-TRX",
+				"days": 68
+			},
+			"0xa7760Ab172248F0C1f866E3a9F88be1cF5091eaE": {
+				"pair": "PRUN-ETH",
+				"days": 68
+			},
+			"0xdcE2D3cfD132082aedf827145e8Bb224ecdD6bFE": {
+				"pair": "PRUN-BNB",
+				"days": 68
+			},
+			"0xDb2129F4Ab46e67538Ec1324c0fdB4c41fF788A3": {
+				"pair": "PRUN-WBTCE",
+				"days": 68
+			},
+			"0x180790a1e7BAD832b6A9A863f7042f12832a5993": {
+				"pair": "PRUN-USDTT",
+				"days": 68
+			},
+			"0xF06BE8559Fe27Ee24aDcE6eD7d702f1c8988A726": {
+				"pair": "PRUN-USDTB",
+				"days": 68
+			},
+			"0xE918d8fBDB118d7054b06D9D77CA49E977f2D56A": {
+				"pair": "PRUN-PMAN",
+				"days": 68
+			},
+			"0xCA996b6b93be37Dc6293d07d25F0e94Df6f6DDa8": {
+				"pair": "PRUN-SHIT",
+				"days": 68
+			},
+			"0x89BaFBa5AD9912E4566B6880b1d9d20372Ad9D5d": {
+				"pair": "PRUN-ICRT",
+				"days": 68
+			}
+		},
+		"v4": {
+			"0xa8708c0a23eAac82A5f36A75efFA042CA5005602": {
+				"pair": "PMAN-BTT",
+				"days": 180
+			},
+			"0x6d45F2023D699b53079CB8439555A597fCA04686": {
+				"pair": "PMAN-ETH",
+				"days": 180
+			},
+			"0xb48FADcF00781bfdc93EF7753174c05FBed4FFB6": {
+				"pair": "PMAN-USDTB",
+				"days": 180
+			},
+			"0x477d1B66cd7e342dc09390dd1EeE49f872F37637": {
+				"pair": "PMAN-TRX",
+				"days": 180
+			}
+		},
+		"v6": {
+			"0x2672678231C26640EE1ae8c7D22E785A0525695f": {
+				"pair": "PRUN-BTT",
+				"days": 101
+			},
+			"0x6086A0c8fa50C92e10CfE907Ea53973dc2561db7": {
+				"pair": "PRUN-TRX",
+				"days": 101
+			},
+			"0xe81475a12229bB260e8fc8f1BC2d2A4713c2BF89": {
+				"pair": "PRUN-ETH",
+				"days": 101
+			},
+			"0xCF32993E684069De2739B857496C96477b5AED03": {
+				"pair": "PRUN-BNB",
+				"days": 101
+			},
+			"0xee3368Ad4aA8000487A3963bf898CDe5064F70Ca": {
+				"pair": "PRUN-WBTCE",
+				"days": 101
+			},
+			"0xfA1344dD7BAE7A54B5dCD0817b16de66B8f71E35": {
+				"pair": "PRUN-USDTT",
+				"days": 101
+			},
+			"0x15df5c2e1d905ca96cC6488decF44F24C68d38fa": {
+				"pair": "PRUN-USDTB",
+				"days": 101
+			},
+			"0xe501d9b85Fd796c61cf36bD0e7C1ea12144af141": {
+				"pair": "PRUN-PMAN",
+				"days": 101
+			},
+			"0xcCe6f48F64bC191Fe2A329697d3Fb4a1636034f4": {
+				"pair": "PRUN-SHIT",
+				"days": 101
+			},
+			"0x1a5d95C6BB04555F77356C424A52e463cFe6b685": {
+				"pair": "PRUN-ICRT",
+				"days": 101
+			}
+		}
+	}
+}

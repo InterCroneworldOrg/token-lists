@@ -1,0 +1,68 @@
+{
+  "name": "Iswap Default List FTM",
+  "tokens": [
+    {
+      "name": "InterCrone",
+      "symbol": "ICR",
+      "address": "0x58759Dd469ae5631C42cf8a473992335575b58D7",
+      "chainId": 250,
+      "decimals": 8,
+      "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png"
+    },
+        {
+      "name": "fETH",
+      "symbol": "FETH",
+      "address": "0x658b0c7613e890EE50B8C4BC6A3f41ef411208aD",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/fETH_32.png"
+    },
+        {
+      "name": "fBTC",
+      "symbol": "FBTC",
+      "address": "0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/fBTC_32.png"
+    },
+        {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "chainId": 250,
+      "decimals": 6,
+      "logoURI": "https://ftmscan.com/token/images/USDC_32.png"
+    },
+        {
+      "name": "SpookyToken",
+      "symbol": "BOO",
+      "address": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/spookyswap-boo_32.png"
+    },
+        {
+      "name": "SpiritSwap Token",
+      "symbol": "SPIRIT",
+      "address": "0x5Cc61A78F164885776AA610fb0FE1257df78E59B",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/spiritswap_32.png"
+    },
+        {
+      "name": "Elk",
+      "symbol": "ELK",
+      "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://ftmscan.com/token/images/elkfinance_32.png"
+    }
+  ],
+  "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png",
+  "version": {
+    "patch": 5,
+    "major": 1,
+    "minor": 3
+  },
+  "timestamp": "2021-11-01T00:12:46.685Z"
+}
