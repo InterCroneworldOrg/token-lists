@@ -105,7 +105,7 @@
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/avax_32.png"
     },
-     {
+    {
       "name": "Cardano",
       "symbol": "ADA",
       "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
@@ -121,13 +121,21 @@
       "decimals": 8,
       "logoURI": "https://static.tronscan.org/production/upload/logo/new/TYK71t3eD1pTxpkDp7gbqXM5DYfaVdfKjV.png"
     },
-     {
+    {
       "symbol": "JM",
       "name": "JustMoney Token",
       "address": "0x388D819724dD6d71760A38F00dc01D310d879771",
       "chainId": 56,
       "decimals": 8,
       "logoURI": "https://bscscan.com/token/images/justmoney_32.png"
+    },
+    {
+      "symbol": "wPUT",
+      "name": "wPUTinCoin",
+      "address": "0xe63913443cc00f7AbbC4506AeB74b3Bcc3fcbbA9",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/InterCroneworldOrg/logo/main/PUT.png"
     },
     {
       "name": "MX Token",
@@ -144,5 +152,5 @@
     "major": 1,
     "minor": 3
   },
-  "timestamp": "2021-11-01T00:12:46.685Z"
+  "timestamp": "2024-04-29T00:12:46.685Z"
 }
