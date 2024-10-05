@@ -76,7 +76,7 @@
     {
       "name": "Tron",
       "symbol": "TRX",
-      "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
+      "address": "0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/tron_32.png"
