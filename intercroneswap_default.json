@@ -7,7 +7,7 @@
       "address": "0x6C50DDDAECA053249582D7F823BCC8299B3FB293",
       "chainId": 11111,
       "decimals": 8,
-      "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png"
     },
     {
       "symbol": "MEOX",
@@ -15,7 +15,7 @@
       "address": "0xA481DC6C5E0A964523E5059F930EE5BA6B4E479C",
       "chainId": 11111,
       "decimals": 18,
-      "logoURI": "https://static.tronscan.org/production/upload/logo/TQy3PRQda43yb3Ku35AktG549KMQLCJVDb.png?t=1653143031031"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TQy3PRQda43yb3Ku35AktG549KMQLCJVDb.png"
     },
     {
       "symbol": "BTC",
@@ -23,7 +23,7 @@
       "address": "0x84716914C0FDF7110A44030D04D0C4923504D9CC",
       "chainId": 11111,
       "decimals": 8,
-      "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
     },
     {
       "symbol": "ETHOLD",
@@ -47,7 +47,7 @@
       "address": "0xA614F803B6FD780986A42C78EC9C7F77E6DED13C",
       "chainId": 11111,
       "decimals": 6,
-      "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+      "logoURI": "https://static.tronscan.org/production/logo/usdtlogo.png"
     },
     {
       "symbol": "USDJ",
@@ -55,7 +55,7 @@
       "address": "0x834295921A488D9D42B4B3021ED1A3C39FB0F03E",
       "chainId": 11111,
       "decimals": 18,
-      "logoURI": "https://coin.top/production/logo/usdj.png"
+      "logoURI": "https://static.tronscan.org/production/logo/usdj.png"
     },
     {
       "symbol": "TUSD",
@@ -63,7 +63,7 @@
       "address": "0xCEBDE71077B830B958C8DA17BCDDEEB85D0BCF25",
       "chainId": 11111,
       "decimals": 18,
-      "logoURI": "https://coin.top/production/logo/TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4.png"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4.png"
     },
     {
       "symbol": "USDC",
@@ -71,7 +71,7 @@
       "address": "0x3487B63D30B5B2C87FB7FFA8BCFADE38EAAC1ABE",
       "chainId": 11111,
       "decimals": 6,
-      "logoURI": "https://coin.top/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz81.png"
     },
     {
       "symbol": "USDD",
@@ -79,7 +79,7 @@
       "address": "0x94F24E992CA04B49C6F2A2753076EF8938ED4DAA",
       "chainId": 11111,
       "decimals": 18,
-      "logoURI": "https://coin.top/production/upload/logo/TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn.png"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn.png"
     },
     {
       "symbol": "WIN",
@@ -87,7 +87,7 @@
       "address": "0x74472E7D35395A6B5ADD427EECB7F4B62AD2B071",
       "chainId": 11111,
       "decimals": 6,
-      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg"
+      "logoURI": "https://static.tronscan.org/profile_images/JKtJTydD_400x400.jpg"
     },
     {
       "symbol": "COME",
@@ -103,7 +103,7 @@
       "address": "0xd3d54671fca80648a5886f990fd40117f94d247f",
       "chainId": 11111,
       "decimals": 8,
-      "logoURI": "https://coin.top/production/upload/logo/TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR.png"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TVHH59uHVpHzLDMFFpUgCx2dNAQqCzPhcR.png"
     },
     {
       "symbol": "JST",
@@ -111,7 +111,7 @@
       "address": "0x18FD0626DAF3AF02389AEF3ED87DB9C33F638FFA",
       "chainId": 11111,
       "decimals": 18,
-      "logoURI": "https://coin.top/production/logo/just_icon.png"
+      "logoURI": "https://static.tronscan.org/production/logo/just_icon.png"
     },
     {
       "symbol": "NFT",
@@ -119,7 +119,7 @@
       "address": "0x3DFE637B2B9AE4190A458B5F3EFC1969AFE27819",
       "chainId": 11111,
       "decimals": 6,
-      "logoURI": "https://coin.top/production/upload/logo/TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq.png"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq.png"
     },
     {
       "symbol": "SUN",
@@ -127,7 +127,7 @@
       "address": "0xB4A428AB7092C2F1395F376CE297033B3BB446C1",
       "chainId": 11111,
       "decimals": 18,
-      "logoURI": "https://coin.top/production/logo/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S.png"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S.png"
     },
     {
       "symbol": "BTT",
@@ -135,7 +135,7 @@
       "address": "0x032017411F4663B317FE77C257D28D5CD1B26E3D",
       "chainId": 11111,
       "decimals": 18,
-      "logoURI": "https://coin.top/production/logo/1002000.png"
+      "logoURI": "https://static.tronscan.org/production/logo/1002000.png"
     },
     {
       "symbol": "LTC",
@@ -143,7 +143,7 @@
       "address": "0xA54BD6077B2EB012D92D9563FF15D2199D8123DE",
       "chainId": 11111,
       "decimals": 8,
-      "logoURI": "https://coin.top/production/logo/TR3DLthpnDdCGabhVDbD3VMsiJoCXY3bZd.png"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TR3DLthpnDdCGabhVDbD3VMsiJoCXY3bZd.png"
     },
     {
       "symbol": "HT",
@@ -151,7 +151,7 @@
       "address": "0x2C036253E0C053188C621B81B7CD40A99B828400",
       "chainId": 11111,
       "decimals": 18,
-      "logoURI": "https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
     },
     {
       "symbol": "HTX",
@@ -167,7 +167,7 @@
       "address": "0xD8B8089856CED3038601CBEB1E3F765CABC12A41",
       "chainId": 11111,
       "decimals": 6,
-      "logoURI": "https://coin.top/production/upload/logo/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS.png"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS.png"
     },
     {
       "symbol": "CCC",
@@ -184,14 +184,6 @@
       "chainId": 11111,
       "decimals": 18,
       "logoURI": "https://static.tronscan.org/production/upload/logo/new/TXZUmRx4T1RW2Uj1GeTmJWyx98R9XAS2sn.png?t=1703353028175"
-    },
-    {
-      "symbol": "BBC",
-      "name": "Big Black Cockerel",
-      "address": "0x1FED0629E3FF6B7D1E8C0D7656854FA44ECBFC86",
-      "chainId": 11111,
-      "decimals": 18,
-      "logoURI": "https://static.tronscan.org/production/upload/logo/new/TCt1tj8v6wwQ7pacS547XU1Wq5Eoed5MyD.png?t=1703762302508"
     },
     {
       "symbol": "ECO",
@@ -215,10 +207,10 @@
       "address": "0x53A58D995EF4937017A8AB47722186A12A27905E",
       "chainId": 11111,
       "decimals": 8,
-      "logoURI": "https://coin.top/production/upload/logo/THbVQp8kMjStKNnf2iCY6NEzThKMK5aBHg.png"
+      "logoURI": "https://static.tronscan.org/production/upload/logo/THbVQp8kMjStKNnf2iCY6NEzThKMK5aBHg.png"
     }
   ],
-  "logoURI": "https://coin.top/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png",
+  "logoURI": "https://static.tronscan.org/production/upload/logo/TKqvrVG7a2zJvQ3VysLoiz9ijuMNDehwy7.png",
   "version": {
     "patch": 6,
     "major": 1,
